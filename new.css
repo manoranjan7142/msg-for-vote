@@ -65,9 +65,9 @@ top:15px; left:0; right:0;
 
 #pseudo-wrap2 {
 background: #88b503;
-background: -moz-linear-gradient(top,  #88b503 0%, #000000 98%);
-background: -webkit-linear-gradient(top,  #88b503 0%,#000000 98%);
-background: linear-gradient(to bottom,  #88b503 0%,#000000 98%);
+background: -moz-linear-gradient(top,  #88b503 0%, #f74a00 98%);
+background: -webkit-linear-gradient(top,  #88b503 0%,#ff7701 98%);
+background: linear-gradient(to bottom,  #fe8401 0%,#ff0000 98%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#88b503', endColorstr='#000000',GradientType=0 );
 height: 190px;
 margin:0;
@@ -146,7 +146,7 @@ ul#menu li a {
 
 ul#menu li a:hover,ul#menu li a.current
 {	background-color:#fff;
-	color:#000;	}
+	color:#f18e04;	}
 	
 /* Content */
 #content
